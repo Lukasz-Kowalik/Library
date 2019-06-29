@@ -1,0 +1,49 @@
+P:\dev\Visual Studio programs\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+P:\dev\Visual Studio programs\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+P:\dev\Visual Studio programs\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+P:\dev\Visual Studio programs\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+P:\dev\Visual Studio programs\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+P:\dev\Visual Studio programs\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+P:\dev\Visual Studio programs\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+P:\dev\Visual Studio programs\C# konsola\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+P:\dev\Visual Studio programs\C# konsola\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+P:\dev\Visual Studio programs\C# konsola\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+P:\dev\Visual Studio programs\C# konsola\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+P:\dev\Visual Studio programs\C# konsola\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+P:\dev\Visual Studio programs\C# konsola\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+P:\dev\Visual Studio programs\C# konsola\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+P:\dev\Visual Studio programs\lab2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+P:\dev\Visual Studio programs\lab2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+P:\dev\Visual Studio programs\lab2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+P:\dev\Visual Studio programs\lab2\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+P:\dev\Visual Studio programs\lab2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+P:\dev\Visual Studio programs\lab2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+P:\dev\Visual Studio programs\lab2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+P:\dev\Visual Studio programs\lab1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+P:\dev\Visual Studio programs\lab1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+P:\dev\Visual Studio programs\lab1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+P:\dev\Visual Studio programs\lab1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+P:\dev\Visual Studio programs\lab1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+P:\dev\Visual Studio programs\lab1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+P:\dev\Visual Studio programs\lab1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+P:\dev\Visual Studio programs\C#\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+P:\dev\Visual Studio programs\C#\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+P:\dev\Visual Studio programs\C#\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+P:\dev\Visual Studio programs\C#\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+P:\dev\Visual Studio programs\C#\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+P:\dev\Visual Studio programs\C#\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+P:\dev\Visual Studio programs\C#\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Student_PL\Documents\Kowalik Łukasz\PO\C#\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Student_PL\Documents\Kowalik Łukasz\PO\C#\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Student_PL\Documents\Kowalik Łukasz\PO\C#\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Student_PL\Documents\Kowalik Łukasz\PO\C#\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Student_PL\Documents\Kowalik Łukasz\PO\C#\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Student_PL\Documents\Kowalik Łukasz\PO\C#\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Student_PL\Documents\Kowalik Łukasz\PO\C#\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+P:\Pobrane\GR2_lab4_Kowalik_Łukasz (zestaw 3)\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+P:\Pobrane\GR2_lab4_Kowalik_Łukasz (zestaw 3)\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+P:\Pobrane\GR2_lab4_Kowalik_Łukasz (zestaw 3)\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+P:\Pobrane\GR2_lab4_Kowalik_Łukasz (zestaw 3)\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+P:\Pobrane\GR2_lab4_Kowalik_Łukasz (zestaw 3)\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+P:\Pobrane\GR2_lab4_Kowalik_Łukasz (zestaw 3)\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+P:\Pobrane\GR2_lab4_Kowalik_Łukasz (zestaw 3)\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
